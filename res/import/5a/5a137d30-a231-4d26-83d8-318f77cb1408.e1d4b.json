@@ -1,0 +1,48 @@
+{
+  "__type__": "cc.JsonAsset",
+  "_name": "GameLevels",
+  "json": {
+    "worlds": [
+      {
+        "index": 1,
+        "levels": [
+          {
+            "level": 1,
+            "world": 1,
+            "canPlay": true,
+            "sceneName": "World1Level1",
+            "starsAchieved": 0
+          },
+          {
+            "level": 2,
+            "world": 1,
+            "canPlay": false,
+            "sceneName": "world1Leve2",
+            "starsAchieved": 0
+          },
+          {
+            "level": 3,
+            "world": 1,
+            "canPlay": false,
+            "sceneName": "world1Leve3",
+            "starsAchieved": 0
+          },
+          {
+            "level": 4,
+            "world": 1,
+            "canPlay": false,
+            "sceneName": "world1Leve4",
+            "starsAchieved": 0
+          },
+          {
+            "level": 5,
+            "world": 1,
+            "canPlay": false,
+            "sceneName": "world1Leve5",
+            "starsAchieved": 0
+          }
+        ]
+      }
+    ]
+  }
+}
